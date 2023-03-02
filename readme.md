@@ -1,2 +1,2 @@
-# __Name__
+# --Name-of-the-project--
 short description 
